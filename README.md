@@ -24,7 +24,7 @@ A minimalist Supermarket Management System backend built with .NET, featuring ba
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/Fares-knight-2005/MarketMangment.git](https://github.com/Fares-knight-2005/MarketMangment.git)
+    git clone https://github.com/Fares-knight-2005/MarketMangment.git
     ```
 2.  **Navigate to the project folder**:
     ```bash
