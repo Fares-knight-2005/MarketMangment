@@ -10,7 +10,7 @@ A minimalist Supermarket Management System backend built with .NET, featuring ba
 
 ## 🛠️ Technologies Used
 
-*   **.NET** (e.g., mention specific version like .NET 8)
+*   **.NET 8**
 *   [Ado.Net , SQL Server]
 
 ## 📦 Getting Started
